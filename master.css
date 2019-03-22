@@ -3,7 +3,9 @@ body{
 }
 hi{
   font-size: 100px;
+  background-color: yellow;
 }
 h2{
   font-size: 50px;
+  background-color: red ;
 }
